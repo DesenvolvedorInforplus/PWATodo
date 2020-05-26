@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/index.html",
+  "index": "https://desenvolvedorinforplus.github.io/PWATodo/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/favicon.ico",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/index.html",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/main.d1b33e67f30acef5bee9.js",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/polyfills.e376cc4a770bfa13f600.js",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/runtime.06daa30a2963fa413676.js",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/styles.ae00c4f3757ee7f8180d.css"
+        "https://desenvolvedorinforplus.github.io/PWATodo/favicon.ico",
+        "https://desenvolvedorinforplus.github.io/PWATodo/index.html",
+        "https://desenvolvedorinforplus.github.io/PWATodo/main.d1b33e67f30acef5bee9.js",
+        "https://desenvolvedorinforplus.github.io/PWATodo/polyfills.e376cc4a770bfa13f600.js",
+        "https://desenvolvedorinforplus.github.io/PWATodo/runtime.06daa30a2963fa413676.js",
+        "https://desenvolvedorinforplus.github.io/PWATodo/styles.ae00c4f3757ee7f8180d.css"
       ],
       "patterns": []
     },
@@ -21,34 +21,34 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-128x128.png",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-144x144.png",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-152x152.png",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-192x192.png",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-384x384.png",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-512x512.png",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-72x72.png",
-        "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-96x96.png"
+        "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-128x128.png",
+        "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-144x144.png",
+        "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-152x152.png",
+        "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-192x192.png",
+        "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-384x384.png",
+        "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-512x512.png",
+        "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-72x72.png",
+        "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/index.html": "abf183b965ef95aa5ad14ed0f4fda57055dc89c0",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/main.d1b33e67f30acef5bee9.js": "f6a4937cf3ea3290801cc8e474bfc3ca449c22af",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/polyfills.e376cc4a770bfa13f600.js": "e986a8b31f4b9d0472e01ac3b1702e42c53dc377",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/runtime.06daa30a2963fa413676.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://desenvolvedorinforplus.github.io/PWATodo/PWATodo/styles.ae00c4f3757ee7f8180d.css": "c35f066c5cfbc99c87ca4edcb52671eb91909da9"
+    "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://desenvolvedorinforplus.github.io/PWATodo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://desenvolvedorinforplus.github.io/PWATodo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://desenvolvedorinforplus.github.io/PWATodo/index.html": "1c62a09970f0c75dcb31cac44cd656bb4ae72e1c",
+    "https://desenvolvedorinforplus.github.io/PWATodo/main.d1b33e67f30acef5bee9.js": "f6a4937cf3ea3290801cc8e474bfc3ca449c22af",
+    "https://desenvolvedorinforplus.github.io/PWATodo/polyfills.e376cc4a770bfa13f600.js": "e986a8b31f4b9d0472e01ac3b1702e42c53dc377",
+    "https://desenvolvedorinforplus.github.io/PWATodo/runtime.06daa30a2963fa413676.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://desenvolvedorinforplus.github.io/PWATodo/styles.ae00c4f3757ee7f8180d.css": "c35f066c5cfbc99c87ca4edcb52671eb91909da9"
   },
   "navigationUrls": [
     {
